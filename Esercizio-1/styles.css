@@ -1,0 +1,27 @@
+.exercise {
+  border: 1px solid red;
+}
+.exercise .exercise-title {
+  color: green;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  text-decoration-thickness: 1px;
+}
+.exercise .all-boxes {
+  display: flex;
+  padding: 1rem;
+}
+.exercise .all-boxes .p-box {
+  border: 1px solid green;
+  text-align: center;
+  padding: 1rem;
+}
+.exercise .all-boxes .p-box .p-1 {
+  color: blue;
+}
+.exercise .all-boxes .p-box .p-2 {
+  color: red;
+}
+
+/*# sourceMappingURL=styles.css.map */
